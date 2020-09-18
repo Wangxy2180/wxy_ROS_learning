@@ -1,0 +1,4 @@
+<launch>
+<node name = "publisher" pkg="wxy_min_node" type = "wxy_min_puber"/>
+<node name = "subscriber" pkg="wxy_min_node" type = "wxy_min_suber"/>
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/free/catkin_kinect2/devel
+
+Name: exam_ros_msg
+Description: Description of exam_ros_msg
+Version: 0.0.0
+Cflags: -I/home/free/catkin_kinect2/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
